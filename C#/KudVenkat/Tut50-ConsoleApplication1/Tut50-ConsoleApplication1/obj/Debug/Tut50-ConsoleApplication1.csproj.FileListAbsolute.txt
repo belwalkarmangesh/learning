@@ -1,0 +1,10 @@
+F:\KudVenkat\Tut50-ConsoleApplication1\Tut50-ConsoleApplication1\bin\Debug\Tut50-ConsoleApplication1.exe.config
+F:\KudVenkat\Tut50-ConsoleApplication1\Tut50-ConsoleApplication1\bin\Debug\Tut50-ConsoleApplication1.exe
+F:\KudVenkat\Tut50-ConsoleApplication1\Tut50-ConsoleApplication1\bin\Debug\Tut50-ConsoleApplication1.pdb
+F:\KudVenkat\Tut50-ConsoleApplication1\Tut50-ConsoleApplication1\obj\Debug\Tut50-ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\KudVenkat\Tut50-ConsoleApplication1\Tut50-ConsoleApplication1\obj\Debug\Tut50-ConsoleApplication1.exe
+F:\KudVenkat\Tut50-ConsoleApplication1\Tut50-ConsoleApplication1\obj\Debug\Tut50-ConsoleApplication1.pdb
+F:\KudVenkat\Tut50-ConsoleApplication1\Tut50-ConsoleApplication1\bin\Debug\Assembly1.dll
+F:\KudVenkat\Tut50-ConsoleApplication1\Tut50-ConsoleApplication1\bin\Debug\Assembly2.dll
+F:\KudVenkat\Tut50-ConsoleApplication1\Tut50-ConsoleApplication1\bin\Debug\Assembly1.pdb
+F:\KudVenkat\Tut50-ConsoleApplication1\Tut50-ConsoleApplication1\bin\Debug\Assembly2.pdb

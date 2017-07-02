@@ -1,0 +1,6 @@
+F:\KudVenkat\Tut2-ConsoleApplication1\Tut2-ConsoleApplication1\bin\Debug\Tut2-ConsoleApplication1.exe.config
+F:\KudVenkat\Tut2-ConsoleApplication1\Tut2-ConsoleApplication1\bin\Debug\Tut2-ConsoleApplication1.exe
+F:\KudVenkat\Tut2-ConsoleApplication1\Tut2-ConsoleApplication1\bin\Debug\Tut2-ConsoleApplication1.pdb
+F:\KudVenkat\Tut2-ConsoleApplication1\Tut2-ConsoleApplication1\obj\Debug\Tut2-ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\KudVenkat\Tut2-ConsoleApplication1\Tut2-ConsoleApplication1\obj\Debug\Tut2-ConsoleApplication1.exe
+F:\KudVenkat\Tut2-ConsoleApplication1\Tut2-ConsoleApplication1\obj\Debug\Tut2-ConsoleApplication1.pdb
