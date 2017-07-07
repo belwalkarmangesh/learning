@@ -1,1 +1,4 @@
-my name is mangesh
+This repo has all the learning material as used by me:
+
+1) C# video series on youtube by kudvenkat
+2) EXcel 2010 begineer course on EDUCBA.
