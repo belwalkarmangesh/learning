@@ -1,0 +1,3 @@
+Paste special : It allows you to copy only attributes you want.
+For eg: you can copy only values not coping 
+Transpose : Can change any range to horizontal and vice-versa.
